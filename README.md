@@ -7,18 +7,49 @@ Dit project onderzoekt welke regio in Nederland de hoogste gezonde levensverwach
 ```bash
 GezondOudWorden/
 ├── data/                        # Alle ruwe CSV-bestanden
-│   ├── Gezonde_levensverwachting__vanaf_1981.csv
-│   ├── 71950ned_TypedDataSet.csv
-│   └── ...
+│   ├── Geregistreerde_criminaliteit_Noord_Nederland.csv
+│   ├── Regionale_kerncijfers_Nederland_22012025_144703.csv
+│   ├── Gezonde_levensverwachting__vanaf_1981_29012025_112744.csv
+│   ├── klik_lv_ggd_20192022.csv
+│   ├── 71950ned_TypedDataSet_29012025_112846.csv
+│   ├── Gezondheidsmonitor__bevolking_18_jaar_of_ouder__regio__2022_22012025_151906.csv
+│   ├── Dataset4_Gem_Levensverwachting_PER_PRO_filtered.csv
+│   ├── Hoogst_behaalde_onderwijsniveau.csv
+│   └── Inkomen_van_huishoudens__huishoudenskenmerken__regio__indeling_2023__22012025_150250 (1).csv
 ├── database/                   # .db-bestanden met SQL-tabellen
 │   ├── Dataset1_gezondelevensverwachting_vanaf_198.db
-│   └── Dataset2_gezondelevensverwachting_per_aandoening.db
+│   ├── Dataset2_gezondelevensverwachting_per_aandoening.db
+│   ├── Dataset3_REG_criminaliteit_Noord.db
+│   ├── Dataset4_Gem_Levensverwachting_PER_PRO.db
+│   ├── Dataset5_inkomen_huishoudens.db
+│   ├── Dataset6_Regionale_kerncijfers_Nederland.db
+│   ├── Dataset6_regio_kerncijfers.db
+│   ├── Dataset7_Hoogst_behaalde_onderwijsniveau.db
+│   └── Dataset8_gezondheidmonitor_bevolking_18jaar.db
 ├── notebook/                   # Python notebooks
-│   └── data-analyse.ipynb
-├── images/                     # PNG-visualisaties en infographics
-│   ├── Levensverwachting_per_regio.png
-│   ├── Opleidingsniveau_vs_gezondheid.png
-│   └── infographic_gezond_oud_worden.png
+│   └── gezond-oud-worden-analyse.ipynb
+├── images/
+├── graphs/                # Grafieken gegenereerd in Python
+│   │   ├── Bewegen_en_sport_Voldoet_aan_beweegrichtlijn.png
+│   │   ├── Bewegen_en_sport_Wekelijkse_sporters.png
+│   │   ├── Inkomen_Gemiddeld besteedbaar inkomen 1000 euro.png
+│   │   ├── Inkomen_Gemiddeld gestandaardiseerd inkomen 1000 euro.png
+│   │   ├── Inkomen_Mediaan besteedbaar inkomen 1000 euro.png
+│   │   ├── Inkomen_Mediaan gestandaardiseerd inkomen 1000 euro.png
+│   │   ├── Ervaren_gezondheid_(goed_zeer_goed).png
+│   │   ├── Eén_of_meer_langdurige_aandoeningen.png
+│   │   ├── Psychische_klachten_(MHI-5__60).png
+│   │   ├── Bij_geboorte_by_GGD_regio.png
+│   │   ├── Onderwijsniveau 5 categorieën_11 Basisonderwijs.png
+│   │   ├── Onderwijsniveau 5 categorieën_12 Vmbo, havo-, vwo-onderbouw, mbo1.png
+│   │   ├── Onderwijsniveau 5 categorieën_21 Havo, vwo, mbo2-4.png
+│   │   ├── Onderwijsniveau 5 categorieën_31 Hbo-, wo-bachelor.png
+│   │   ├── Onderwijsniveau 5 categorieën_32 Hbo-, wo-master, doctor.png
+│   │   ├── Rokers.png
+│   │   ├── Alcoholgebruik_Overmatige_drinkers_onder_bevolking.png
+│   │   └── Alcoholgebruik_Voldoet_aan_richtlijn_alcoholgebruik.png
+├── infographic/           # Visueel ontworpen overzicht
+│   ├── infographic_gezond_oud_worden.jpg
 ├── docs/                       # Documentatie en verslaglegging
 │   ├── Reflectie_op_het_proces.pdf
 │   ├── Verslag_data_ontsluiting.pdf
