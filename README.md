@@ -48,13 +48,8 @@ GezondOudWorden/
 │   │   ├── Rokers.png
 │   │   ├── Alcoholgebruik_Overmatige_drinkers_onder_bevolking.png
 │   │   └── Alcoholgebruik_Voldoet_aan_richtlijn_alcoholgebruik.png
-├── infographic/           # Visueel ontworpen overzicht
-│   ├── infographic_gezond_oud_worden.jpg
-├── docs/                       # Documentatie en verslaglegging
-│   ├── Reflectie_op_het_proces.pdf
-│   ├── Verslag_data_ontsluiting.pdf
-│   └── Rapport_data_analyse.pdf
-└── README.md
+└── infographic/           # Visueel ontworpen overzicht
+    └── infographic_gezond_oud_worden.jpg
 ```
 
 ## Centrale vraag
