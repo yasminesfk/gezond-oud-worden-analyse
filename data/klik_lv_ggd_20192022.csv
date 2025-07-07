@@ -1,0 +1,76 @@
+id;GGD-regio;Geslacht;Bij geboorte;Afwijking bij geboorte;Bij 65 jaar;Afwijking bij 65 jaar
+1010;GGD Groningen;Totaal;80,9;onder, 99% zeker;19,4;onder, 99% zeker
+1010;GGD Groningen;Mannen;79,1;onder, 99% zeker;18,2;onder, 99% zeker
+1010;GGD Groningen;Vrouwen;82,7;onder, 99% zeker;20,6;onder, 99% zeker
+90;GGD Drenthe;Totaal;81,1;onder, 99% zeker;19,8;boven, 95% zeker
+90;GGD Drenthe;Mannen;79,5;onder, 99% zeker;18,6;geen
+90;GGD Drenthe;Vrouwen;82,8;onder, 99% zeker;20,8;geen
+100;GGD IJsselland;Totaal;81,7;geen;19,9;boven, 99% zeker
+100;GGD IJsselland;Mannen;80,2;boven, 95% zeker;18,6;geen
+100;GGD IJsselland;Vrouwen;83,2;geen;21,1;boven, 99% zeker
+110;GGD Twente;Totaal;81,0;onder, 99% zeker;19,4;onder, 99% zeker
+110;GGD Twente;Mannen;79,3;onder, 99% zeker;18,1;onder, 99% zeker
+110;GGD Twente;Vrouwen;82,6;onder, 99% zeker;20,6;onder, 99% zeker
+1640;GGD Noord- en Oost-Gelderland;Totaal;81,6;geen;19,8;boven, 99% zeker
+1640;GGD Noord- en Oost-Gelderland;Mannen;80,0;geen;18,6;geen
+1640;GGD Noord- en Oost-Gelderland;Vrouwen;83,1;geen;20,9;geen
+190;Veiligheids- en Gezondheidsregio Gelderland-Midden;Totaal;81,6;geen;19,8;boven, 95% zeker
+190;Veiligheids- en Gezondheidsregio Gelderland-Midden;Mannen;80,1;geen;18,7;boven, 99% zeker
+190;Veiligheids- en Gezondheidsregio Gelderland-Midden;Vrouwen;83,0;geen;20,8;geen
+2010;GGD Gelderland-Zuid;Totaal;81,2;onder, 99% zeker;19,4;onder, 99% zeker
+2010;GGD Gelderland-Zuid;Mannen;79,8;geen;18,4;geen
+2010;GGD Gelderland-Zuid;Vrouwen;82,6;onder, 99% zeker;20,4;onder, 99% zeker
+220;GGD Flevoland;Totaal;81,7;geen;19,7;geen
+220;GGD Flevoland;Mannen;80,1;geen;18,5;geen
+220;GGD Flevoland;Vrouwen;83,2;geen;20,8;geen
+1250;GGD Regio Utrecht;Totaal;82,1;boven, 99% zeker;20,0;boven, 99% zeker
+1250;GGD Regio Utrecht;Mannen;80,6;boven, 99% zeker;18,8;boven, 99% zeker
+1250;GGD Regio Utrecht;Vrouwen;83,5;boven, 99% zeker;21,0;boven, 95% zeker
+1620;GGD Hollands-Noorden;Totaal;82,0;boven, 99% zeker;20,2;boven, 99% zeker
+1620;GGD Hollands-Noorden;Mannen;80,5;boven, 99% zeker;19,0;boven, 99% zeker
+1620;GGD Hollands-Noorden;Vrouwen;83,4;boven, 99% zeker;21,3;boven, 99% zeker
+300;GGD Kennemerland;Totaal;81,8;boven, 99% zeker;19,7;geen
+300;GGD Kennemerland;Mannen;80,4;boven, 99% zeker;18,6;geen
+300;GGD Kennemerland;Vrouwen;83,2;geen;20,7;onder, 99% zeker
+340;GGD Amsterdam;Totaal;81,4;onder, 99% zeker;19,5;onder, 99% zeker
+340;GGD Amsterdam;Mannen;79,5;onder, 99% zeker;18,1;onder, 99% zeker
+340;GGD Amsterdam;Vrouwen;83,3;boven, 95% zeker;20,9;geen
+360;GGD Gooi en Vechtstreek;Totaal;82,0;boven, 99% zeker;19,8;geen
+360;GGD Gooi en Vechtstreek;Mannen;80,6;boven, 99% zeker;18,7;geen
+360;GGD Gooi en Vechtstreek;Vrouwen;83,3;geen;20,8;geen
+1600;GGD Hollands-Midden;Totaal;82,5;boven, 99% zeker;20,3;boven, 99% zeker
+1600;GGD Hollands-Midden;Mannen;80,9;boven, 99% zeker;19,1;boven, 99% zeker
+1600;GGD Hollands-Midden;Vrouwen;84,0;boven, 99% zeker;21,5;boven, 99% zeker
+460;GGD Rotterdam-Rijnmond;Totaal;80,9;onder, 99% zeker;19,2;onder, 99% zeker
+460;GGD Rotterdam-Rijnmond;Mannen;79,0;onder, 99% zeker;17,9;onder, 99% zeker
+460;GGD Rotterdam-Rijnmond;Vrouwen;82,7;onder, 99% zeker;20,5;onder, 99% zeker
+480;Dienst Gezondheid & Jeugd ZHZ;Totaal;81,7;geen;19,9;boven, 99% zeker
+480;Dienst Gezondheid & Jeugd ZHZ;Mannen;80,0;geen;18,6;geen
+480;Dienst Gezondheid & Jeugd ZHZ;Vrouwen;83,2;geen;21,1;boven, 99% zeker
+500;GGD Zeeland;Totaal;81,9;boven, 99% zeker;20,2;boven, 99% zeker
+500;GGD Zeeland;Mannen;80,1;geen;18,8;boven, 99% zeker
+500;GGD Zeeland;Vrouwen;83,8;boven, 99% zeker;21,6;boven, 99% zeker
+1510;GGD West-Brabant;Totaal;81,4;onder, 99% zeker;19,6;onder, 95% zeker
+1510;GGD West-Brabant;Mannen;79,9;geen;18,4;geen
+1510;GGD West-Brabant;Vrouwen;83,0;geen;20,7;onder, 99% zeker
+1530;GGD Hart voor Brabant;Totaal;81,3;onder, 99% zeker;19,6;onder, 99% zeker
+1530;GGD Hart voor Brabant;Mannen;79,6;onder, 99% zeker;18,3;onder, 99% zeker
+1530;GGD Hart voor Brabant;Vrouwen;83,0;geen;20,7;onder, 99% zeker
+1630;GGD Brabant-Zuidoost;Totaal;82,0;boven, 99% zeker;20,1;boven, 99% zeker
+1630;GGD Brabant-Zuidoost;Mannen;80,4;boven, 99% zeker;18,9;boven, 99% zeker
+1630;GGD Brabant-Zuidoost;Vrouwen;83,6;boven, 99% zeker;21,3;boven, 99% zeker
+600;GGD Limburg-Noord;Totaal;81,7;geen;20,1;boven, 99% zeker
+600;GGD Limburg-Noord;Mannen;79,9;geen;18,6;geen
+600;GGD Limburg-Noord;Vrouwen;83,6;boven, 99% zeker;21,4;boven, 99% zeker
+1610;GGD Zuid-Limburg;Totaal;80,6;onder, 99% zeker;19,2;onder, 99% zeker
+1610;GGD Zuid-Limburg;Mannen;78,8;onder, 99% zeker;18,0;onder, 99% zeker
+1610;GGD Zuid-Limburg;Vrouwen;82,3;onder, 99% zeker;20,4;onder, 99% zeker
+390;GGD Haaglanden;Totaal;81,7;geen;19,8;boven, 99% zeker
+390;GGD Haaglanden;Mannen;80,1;boven, 95% zeker;18,5;geen
+390;GGD Haaglanden;Vrouwen;83,1;geen;20,9;geen
+1040;GGD Fryslân;Totaal;81,6;geen;19,9;boven, 99% zeker
+1040;GGD Fryslân;Mannen;80,0;geen;18,6;geen
+1040;GGD Fryslân;Vrouwen;83,2;geen;21,1;boven, 99% zeker
+1320;GGD Zaanstreek/Waterland;Totaal;81,8;boven, 95% zeker;19,9;boven, 99% zeker
+1320;GGD Zaanstreek/Waterland;Mannen;80,3;boven, 99% zeker;18,7;boven, 95% zeker
+1320;GGD Zaanstreek/Waterland;Vrouwen;83,3;geen;20,9;geen

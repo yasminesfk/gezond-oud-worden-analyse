@@ -1,0 +1,76 @@
+﻿;2021;2022*;2023*
+Soort misdrijf;aantal;aantal;aantal
+Misdrijven, totaal;60540;63930;64165
+1 Vermogensmisdrijven;31780;34390;35500
+11 Diefstal/verduistering en inbraak;19765;25425;26870
+111 Diefstal en inbraak met geweld;270;330;365
+112 Diefstal en inbraak zonder geweld;19495;25095;26505
+12 Bedrog;5265;4250;4850
+121 Oplichting;5135;4145;4675
+123 Bedrog (overig);130;110;175
+13 Valsheidsmisdrijven;6005;3990;2960
+131 Muntmisdrijf;75;50;25
+132 Valsheid in zegels en merken;10;10;5
+133 Valsheid in geschriften;5920;3930;2930
+14 Heling;375;455;475
+15 Afpersing en afdreiging;215;155;185
+16 Bankbreuk;5;5;5
+17 Witwassen;150;105;155
+2 Vernielingen,misdropenborde/gezag;10415;10140;9665
+21 Vernieling en beschadiging;7355;6945;6770
+211 Vernieling aan auto;2465;2335;2295
+212 Vernieling aan openbaar gebouw;90;80;85
+213 Vernieling middel openb vervoer;45;40;25
+215 Vernieling, beschadiging (overig);4750;4485;4370
+22 Openbare orde misdrijf;2390;2415;2135
+221 Openlijke geweldpleging;305;350;355
+2211 Openlijk geweld tegen persoon;240;305;315
+2212 Openlijke geweld tegen goed;60;40;40
+222 Huisvredebreuk;210;305;320
+223 Lokaalvredebreuk;40;50;85
+224 Computervredebreuk;1640;1525;1205
+225 Discriminatie;55;30;30
+226 Openbare orde misdrijf (overig);145;160;135
+23 Brandstichting / ontploffing;360;450;380
+24 Openbaar gezag misdrijf;315;335;385
+241 Niet opvolgen van ambtelijk bevel;155;210;220
+242 Wederspannigheid;110;80;90
+243 Valse aangifte;20;20;10
+245 Verblijf ongewenste vreemdeling;0;0;0
+246 Openbaar gezag misdrijf (overig);25;25;60
+3 Gewelds- en seksuele misdrijven;6560;6885;6460
+31 Mishandeling;3210;3620;3500
+32 Bedreiging en stalking;2090;1985;1790
+321 Bedreiging;1725;1655;1530
+322 Stalking;370;330;265
+33 Seksueel misdrijf;800;845;765
+331 Aanranding;190;245;210
+332 Verkrachting;200;225;190
+333 Schennis der eerbaarheid;110;85;80
+334 Ontucht met minderjarige;85;90;75
+335 Pornografie;50;45;40
+336 Ontucht met misbruik van gezag;90;85;85
+337 Seksueel misdrijf (overig);75;70;85
+34 Levensmisdrijf;220;270;195
+35 Vrijheidsbeneming/gijzeling;40;30;25
+36 Mensenhandel en 244 mensensmokkel;55;65;85
+37 Geweldsmisdrijf (overig);140;70;90
+4 Misdrijven WvSr (overig);810;740;665
+5 Verkeersmisdrijven;9375;10320;10345
+51 Verlaten plaats ongeval;4935;5335;5540
+52 Rijden onder invloed;3265;3665;3520
+53 Rijden tijdens ontzegging besturen;630;705;785
+54 Rijden tijdens rijverbod;15;20;30
+55 Voeren vals kenteken;50;50;35
+56 Joyriding;25;15;20
+57 Weigeren blaastest/bloedonderzoek ed;95;150;160
+58 Verkeersmisdrijf (overig);360;380;260
+6 Drugsmisdrijven;770;690;870
+61 Harddrugs;420;380;505
+62 Softdrugs;345;305;360
+6.3 Drugsmisdrijf (overig);10;5;5
+7 Vuurwapenmisdrijven;395;395;470
+9 Misdrijven overige wetten;425;365;190
+91 Militaire misdrijven;0;0;0
+92 Misdrijven (overig);425;365;190
+Bron: CBS;;;
